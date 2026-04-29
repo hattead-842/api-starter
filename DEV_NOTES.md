@@ -15,3 +15,6 @@ Personal development log — notes, findings, and ongoing work.
 - Verified API endpoint response schema
 - Ran linter, applied auto-fixes
 - Improved error handling in edge cases
+
+## 2026-04-29
+- Investigated performance bottleneck, noted findings
