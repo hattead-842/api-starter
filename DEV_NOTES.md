@@ -18,3 +18,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-29
 - Investigated performance bottleneck, noted findings
+
+## 2026-05-06
+- Added basic usage examples to README
+- Added CONTRIBUTING.md stub
+- Consolidated duplicate helper functions
